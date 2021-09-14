@@ -17,7 +17,6 @@ import Signup from './pages/Signup';
 import Success from './pages/Success';
 import Nav from './components/Nav';
 
-//import { StoreProvider } from './utils/GlobalState';
 import store from './utils/store';
 
 import OrderHistory from './pages/OrderHistory';

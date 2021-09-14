@@ -18,8 +18,6 @@ const initialState = {
   currentCategory: ''
 }
 
-//import { useReducer } from 'react';
-
 export const reducer = (state = initialState, action) => {
   switch (action.type) {
     case UPDATE_PRODUCTS:
